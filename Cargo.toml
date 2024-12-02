@@ -4,3 +4,11 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+
+[[bin]]
+name = "1_1"
+path = "1/1/main.rs"
+
+[[bin]]
+name = "1_2"
+path = "1/2/main.rs"
