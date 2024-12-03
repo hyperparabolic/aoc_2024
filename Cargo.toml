@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+regex = "1.11.1"
 
 [[bin]]
 name = "1_1"
@@ -17,3 +18,10 @@ path = "1/2/main.rs"
 name = "2_1"
 path = "2/1/main.rs"
 
+[[bin]]
+name = "3_1"
+path = "3/1/main.rs"
+
+[[bin]]
+name = "3_2"
+path = "3/2/main.rs"
