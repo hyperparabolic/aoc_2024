@@ -34,3 +34,11 @@ path = "4/1/main.rs"
 name = "4_2"
 path = "4/2/main.rs"
 
+[[bin]]
+name = "5_1"
+path = "5/1/main.rs"
+
+[[bin]]
+name = "5_2"
+path = "5/2/main.rs"
+
